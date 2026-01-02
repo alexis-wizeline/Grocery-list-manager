@@ -7,7 +7,7 @@ services:
     volumes:
       - mongodb_data:/data/db
     environment:
-      - MONGO_INITDB_DATABASE=grocery_lits_manager_development
+      - MONGO_INITDB_DATABASE=grocery_list_manager_development
       - MONGO_INITDB_ROOT_USERNAME=admin
       - MONGO_INITDB_ROOT_PASSWORD=password
     restart: unless-stopped
