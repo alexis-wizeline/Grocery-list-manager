@@ -12,7 +12,8 @@ an app to create derivated lists from a master list to do groceries, it will als
 ## How to start the project?
 
 1.- check how to start a ruby on rails proect with mongo db
-2.- mongo db how ? local with docker or tyrough a webpage?
+2.- mongo db how ? local with docker or trough a webpage?
+    for local dev I will try docker
 3.- hotwire how do it work? how do we incorporate into the rails project?
 4.- it will have users?
 5.- how do we model the data in mongo db ? and how the data will work? user to list ? list to user ?
